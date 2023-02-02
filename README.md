@@ -1,5 +1,8 @@
 ### Hi <coders/> 👋, I'm Ismael
-<h3 align="center">Web Developer</h3>
+<h3>Web Developer</h3>
+
+I'm a developer with experience developing web applications and Rest Api following good design and scalability practices. My main languages/programming frameworks are: JavaScript, Typescript, NodeJs and Php.
+
 
 - 🌱 I’m currently learning **Serverless, NestJs**
 
