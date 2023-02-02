@@ -1,5 +1,5 @@
 ### Hi <coders/> 👋, I'm Ismael
-## Web Developer 
+#### Web Developer 
 
 I'm a developer with experience developing web applications and Rest Api following good design and scalability practices. My main languages/programming frameworks are: JavaScript, Typescript, NodeJs and Php.
 
@@ -11,7 +11,7 @@ I'm a developer with experience developing web applications and Rest Api followi
 
 - 📫 How to reach me **ismael.7087@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ismaelfy/](https://www.linkedin.com/in/ismaelfy/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/ismaelfy/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
